@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SellerBox.Admin", "SellerBox.Admin\SellerBox.Admin.csproj", "{50DFDC60-FF73-4E24-9494-98980C1E877A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DFDC60-FF73-4E24-9494-98980C1E877A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DFDC60-FF73-4E24-9494-98980C1E877A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DFDC60-FF73-4E24-9494-98980C1E877A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DFDC60-FF73-4E24-9494-98980C1E877A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B348C8F3-5802-4765-9D78-6DCEBAA27A02}
+	EndGlobalSection
+EndGlobal
